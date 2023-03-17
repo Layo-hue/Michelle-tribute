@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#main {
+  padding: 50px;
+}
+h1 {
+  text-align: center;
+}
+#additional-info {
+  text-align: center;
+  margin: 20px auto 15px auto;
+}
+
+#image {
+  display: block;
+  height: auto;
+  width: 100%;
+  max-width: 100%;
+}
+figcaption {
+  text-align: center;
+  margin: 15px 0 10px 0;
+}
+h3 {
+  margin: 20px 0 0 0;
+}
+#tribute-info {
+  margin: 40px;
+}
+#read-more {
+  font-weight: bold;
+  text-align: center;
+}
